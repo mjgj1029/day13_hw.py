@@ -1,4 +1,32 @@
 # day13_hw.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import turtle as t                   # 거북이 함수를 사용.  
 import random                        # random 함수를 사용.  
 
